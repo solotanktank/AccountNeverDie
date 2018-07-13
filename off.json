@@ -1,1 +1,13 @@
-{"Signatures":[{"Name":"oLocalPlayer","Offset":2,"Sig":"8B 80 ? ? ? ? 40 C3","Module":"engine.dll"},{"Name":"oEntityList","Offset":1,"Sig":"BB ? ? ? ? 83 FF 01 0F 8C ? ? ? ? 3B F8","Module":"client.dll"},{"Name":"oClientState","Offset":1,"Sig":"A1 ? ? ? ? 33 D2 6A 00 6A 00 33 C9 89 B0","Module":"engine.dll"},{"Name":"oGlowObject","Offset":1,"Sig":"A1 ? ? ? ? A8 01 75 4B","Module":"client.dll"}],"Netvars":[{"Name":"oTeam","Value":240},{"Name":"oMaxPlayer","Value":784},{"Name":"oGlowIndex","Value":41760},{"Name":"oHealth","Value":252},{"Name":"oIsSpotted","Value":2361},{"Name":"oCrosshairId","Value":45752},{"Name":"oFlashDuration","Value":41736}]}
+{
+	"oLocalPlayer" : 11234652,
+	"oTeam" : 240,
+	"oEntityList" : 78193620,
+	"oClientState" : 5794420,
+	"oMaxPlayer" : 784,
+	"oGlowIndex" : 41760,
+	"oGlowObject" : 83631952,
+	"oHealth" : 252,
+	"oIsSpotted" : 2361,
+	"oCrosshairId" : 45752,
+	"oFlashDuration" : 41736
+}
