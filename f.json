@@ -1,19 +1,17 @@
 {
-   "result" : {
-      "game" : {
-         "a1" : 35058676,
-         "a2" : 35000324,
-         "a3" : 35050612,
-         "a4" : 35791028,
-         "a5" : "",
-         "cv" : "1.7.4.0"
-      },
-      "user" : {
-         "expire" : "2023-10-23T00:00:00.000Z",
-         "isFirstLogin" : true,
-         "isHWIDReset" : false,
-         "isPaidUser" : true,
-         "point" : 9999
-      }
-   }
+  "game" : {
+	 "a1" : 35058676,
+	 "a2" : 35000324,
+	 "a3" : 35050612,
+	 "a4" : 35791028,
+	 "a5" : "",
+	 "cv" : "1.7.4.0"
+  },
+  "user" : {
+	 "expire" : "2023-10-23T00:00:00.000Z",
+	 "isFirstLogin" : true,
+	 "isHWIDReset" : false,
+	 "isPaidUser" : true,
+	 "point" : 9999
+  }  
 }
